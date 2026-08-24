@@ -5,13 +5,13 @@ An [Ayu Light](https://github.com/dempfi/ayu)-inspired theme for [Omarchy](https
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<your-username>/omarchy-ayu-light-theme.git
+omarchy theme install https://github.com/sayaamirul/omarchy-ayu-light-theme.git
 ```
 
 Or manually:
 
 ```bash
-git clone https://github.com/<your-username>/omarchy-ayu-light-theme.git ~/.config/omarchy/themes/ayu-light
+git clone https://github.com/sayaamirul/omarchy-ayu-light-theme.git ~/.config/omarchy/themes/ayu-light
 omarchy theme set ayu-light
 ```
 
